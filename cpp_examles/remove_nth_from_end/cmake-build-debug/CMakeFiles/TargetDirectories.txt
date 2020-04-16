@@ -1,0 +1,3 @@
+C:/Users/oganes/CLionProjects/remove_nth_from_end/cmake-build-debug/CMakeFiles/remove_nth_from_end.dir
+C:/Users/oganes/CLionProjects/remove_nth_from_end/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/oganes/CLionProjects/remove_nth_from_end/cmake-build-debug/CMakeFiles/rebuild_cache.dir

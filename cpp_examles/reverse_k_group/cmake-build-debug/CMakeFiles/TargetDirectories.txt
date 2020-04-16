@@ -1,0 +1,3 @@
+C:/Users/oganes/CLionProjects/reverse_k_group/cmake-build-debug/CMakeFiles/reverse_k_group.dir
+C:/Users/oganes/CLionProjects/reverse_k_group/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/oganes/CLionProjects/reverse_k_group/cmake-build-debug/CMakeFiles/rebuild_cache.dir
